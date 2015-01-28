@@ -1,0 +1,2 @@
+Pynetinfo==0.2.3
+# sudo apt-get install python-scapy=2.2.0-1
